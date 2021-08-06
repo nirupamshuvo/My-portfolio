@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html
+{
+    scroll-behavior: smooth;
+}
+body
+{
+    background-color: white;
+}
+
+.portfolio{
+    color: white;
+    background-color: purple;
+    text-align: right;
+    font-size: large;
+    font-style: Arial;
+}
+
+.col-md-2{
+    margin-left: 30px;
+}
+
+.Name{
+    text-align: center;
+    font-weight: bold;
+    padding-right:120px;
+    color: purple;
+
+}
+
+.description{
+    text-align: right;
+    font-weight: 100px;
+    margin-right: 30px;
+    color: purple;
+
+}
+
+.information{
+    text-align: left;
+    font-weight: 100px;
+    margin-left: 30px;
+    font-size: 225%;
+    color: purple;
+
+}
