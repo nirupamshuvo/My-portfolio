@@ -14,24 +14,23 @@ body
 
 .container-fluid{
     color: white;
-    background-color: purple;
     text-align: right;
     font-size: large;
     font-style: Arial;
+    background-color: purple;
 }
 
 .Name{
     text-align: center;
     font-weight: bold;
     padding-right:240px;
-    color: purple;
+    font-style: Arial;
 
 }
 
 .description{
     text-align: left;
     font-weight: 100px;
-    color: purple;
 
 }
 
@@ -39,6 +38,6 @@ body
     text-align: left;
     font-weight: 100px;
     font-size: 225%;
-    color: purple;
+    font-style: Arial;
 
 }
