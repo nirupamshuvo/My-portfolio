@@ -20,6 +20,10 @@ body
     background-color: purple;
 }
 
+.container-wrap{
+    text-align: center;
+}
+
 .Name{
     text-align: center;
     font-weight: bold;
@@ -34,10 +38,7 @@ body
 
 }
 
-.information{
-    text-align: left;
-    font-weight: 100px;
-    font-size: 225%;
-    font-style: Arial;
-
+.sticky-sidebar-lesson{
+    width: 100%;
+    margin: 0 auto;
 }
